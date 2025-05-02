@@ -9,27 +9,19 @@ Use data-driven insights for improved decision-making.
 🧰 Tech Stack
 Programming Language: Python
 
-Libraries & Frameworks:
-
+Libraries & Frameworks:-
 scikit-learn
-
 NumPy
-
 Pandas
-
 Matplotlib
 
-Tools:
-
+Tools:-
 Jupyter Notebook
-
 Git & GitHub
 
 🧪 Features
 Data cleaning and preprocessing
-
 Exploratory Data Analysis (EDA)
-
 Feature selection and normalization
 
 KNN model training and evaluation
